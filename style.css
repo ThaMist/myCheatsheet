@@ -12,3 +12,7 @@ table {
 td {
     border: 1px solid black;
 }
+
+iframe {
+    padding: 50px;
+}
